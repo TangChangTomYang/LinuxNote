@@ -225,8 +225,8 @@ scp -r userName@remote:Desktop demo
 - 上传公钥到ssh 服务器
     - ssh-copy-id -p port userName@remote  // 可以让远程服务器记住我们的公钥(即保存公钥)
     
-![](/assets/Snip20190520_1.png)
 
+![](/assets/Snip20190520_1.png)
 > 补充说明: 非对称加密的特点
 - 使用 `公钥`加密的数据, 使用`私钥` 解密. 
 - 使用 `私钥`加密的数据, 使用`公钥`解密.
