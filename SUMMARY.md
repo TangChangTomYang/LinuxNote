@@ -6,4 +6,5 @@
 * [002-Linux终端命令格式](002-linuxzhong-duan-ming-ling-ge-shi.md)
 * [003-文件目录常用操作](003wen-jian-mu-lu-chang-yong-cao-zuo.md)
 * [004-远程管理命令](004yuan-cheng-guan-li-ming-ling.md)
+* [005-用户权限相关命令](005yong-hu-quan-xian-xiang-guan-ming-ling.md)
 
